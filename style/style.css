@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.error-input {
+  border-color: red;
+}
+
+.error-hidden {
+  visibility: hidden;
+}
+
+.col {
+  color: gray;
+}
