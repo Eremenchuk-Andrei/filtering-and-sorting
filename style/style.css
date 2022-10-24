@@ -14,3 +14,7 @@
 .col {
   color: gray;
 }
+
+.row {
+  align-items: center;
+}
